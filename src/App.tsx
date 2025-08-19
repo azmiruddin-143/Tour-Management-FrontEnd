@@ -5,10 +5,10 @@ import CommonLayout from "./components/layout/CommonLayout"
 function App() {
 
   return (
+    // Part-1//
 
     <div>
       <CommonLayout>
-        
         <Outlet></Outlet>
       </CommonLayout>
 
